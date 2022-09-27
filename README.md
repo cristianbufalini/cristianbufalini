@@ -1,4 +1,4 @@
-print('HELLO WORD' 👋)
+print('HELLO WORLD' 👋)
 
 😄My name is Cristian Adrian Bufalini
 
